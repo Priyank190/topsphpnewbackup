@@ -1,0 +1,25 @@
+QFONAPP INTERVIEW
+
+
+Question: Write a program to take 3 numbers Start, End & Pivot from the user. Then print the
+output Pivot to start in decreasing order and pivot to end in increasing order.
+Example:
+Start: 1
+End: 9
+Pivot: 5
+Output: 5, 4, 3, 2, 1, 6, 7, 8, 9
+Note: You can use any programing language to write the program. (Candidates are allowed 30
+minutes for this test.)
+
+
+
+$a = [1, 2, 3, 4, 5, 6, 6, 5, 4];
+$b = [2, 4, 6, 7, 8];
+
+-> Convert $a array to unique value without using any php array function = [1, 2, 3, 4, 5, 6]
+-> intersect $a & $b array without using any php array function = [2, 4, 6]
+
+
+
+
+
